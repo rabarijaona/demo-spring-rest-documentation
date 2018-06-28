@@ -1,0 +1,15 @@
+= Shopping
+
+== List all products
+
+=== Sample request and response
+
+==== Request
+include::{snippets}/products/curl-request.adoc[]
+
+==== Response
+include::{snippets}/products/http-response.adoc[]
+
+=== Response fields
+include::{snippets}/products/response-fields.adoc[]
+

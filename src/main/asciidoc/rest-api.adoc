@@ -1,0 +1,7 @@
+= Shopping REST API
+:toc: left
+
+include::intro.adoc[leveloffset=+1]
+
+// Shopping
+include::shopping.adoc[leveloffset=+1]
